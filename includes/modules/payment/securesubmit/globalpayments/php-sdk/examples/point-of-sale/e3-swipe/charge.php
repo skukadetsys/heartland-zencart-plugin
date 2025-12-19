@@ -65,7 +65,7 @@ try {
             <h1>What just happened?</h1>
             <ul class="list-group">
                 <li class="list-group-item"><h3><span class="glyphicon glyphicon-credit-card"></span>&nbsp;The encrypted card data was collected from the reader.</h3></li>
-                <li class="list-group-item"><h3><span class="glyphicon glyphicon-lock"></span>&nbsp;The encrypted data was sent directly to Heartland for tokenization.</h3></li>
+                <li class="list-group-item"><h3><span class="glyphicon glyphicon-lock"></span>&nbsp;The encrypted data was sent directly to Global Payments for tokenization.</h3></li>
                 <li class="list-group-item"><h3><span class="glyphicon glyphicon-edit"></span>&nbsp;The corresponding token was added to the form as a hidden input.</h3></li>
                 <li class="list-group-item"><h3><span class="glyphicon glyphicon-ok-circle"></span>&nbsp;The form was submitted and the token was charged.</h3></li>
             </ul>

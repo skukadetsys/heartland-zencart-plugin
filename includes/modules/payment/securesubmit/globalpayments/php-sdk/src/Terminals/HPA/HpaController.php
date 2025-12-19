@@ -16,7 +16,7 @@ use GlobalPayments\Api\Terminals\TerminalUtils;
 use GlobalPayments\Api\Terminals\HPA\Requests\HpaSendFileRequest;
 
 /*
- * Main controller class for Heartland payment application
+ * Main controller class for Global Payments application
  *
  */
 

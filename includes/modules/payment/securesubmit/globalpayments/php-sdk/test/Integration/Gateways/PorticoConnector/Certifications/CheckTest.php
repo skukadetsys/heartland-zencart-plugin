@@ -120,7 +120,7 @@ class CheckTest extends TestCase
             SecCode::CCD,
             CheckType::PERSONAL,
             AccountType::CHECKING,
-            "Heartland Pays"
+            "Global Payments Pays"
         );
 
         $response = $check->charge(15.00)
@@ -143,7 +143,7 @@ class CheckTest extends TestCase
             SecCode::CCD,
             CheckType::BUSINESS,
             AccountType::CHECKING,
-            "Heartland Pays"
+            "Global Payments Pays"
         );
 
         $response = $check->charge(16.00)
@@ -161,7 +161,7 @@ class CheckTest extends TestCase
             SecCode::CCD,
             CheckType::PERSONAL,
             AccountType::SAVINGS,
-            "Heartland Pays"
+            "Global Payments Pays"
         );
 
         $response = $check->charge(17.00)
@@ -179,7 +179,7 @@ class CheckTest extends TestCase
             SecCode::CCD,
             CheckType::BUSINESS,
             AccountType::SAVINGS,
-            "Heartland Pays"
+            "Global Payments Pays"
         );
 
         $response = $check->charge(18.00)

@@ -40,10 +40,10 @@
         ],
         "authors": [
             {
-                "name": "Heartland Payment Systems"
+                "name": "Global Payments Systems"
             }
         ],
-        "description": "PHP SDK for processing payments with Global Payments, including Heartland Payment Systems and Realex Payments",
+        "description": "PHP SDK for processing payments with Global Payments, including Global Payments Systems and Realex Payments",
         "homepage": "https://developer.heartlandpaymentsystems.com/documentation"
     }
 ]

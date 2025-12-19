@@ -2,7 +2,7 @@
     <img src="https://globalpayments.github.io/images/globapaymentsLogo.png" alt="Global Payments logo" title="Global Payments" align="right" width="225" />
 </a>
 
-# Heartland & Global Payments PHP SDK
+# Global Payments & Global Payments PHP SDK
 
 This SDK makes it easy to integrate your PHP application with our Card Not Present and Card Present APIs. 
 
@@ -58,7 +58,7 @@ git clone https://github.com/globalpayments/php-sdk
 
 ## Documentation and Examples
 
-You can find the latest SDK documentation along with code examples and test cards on the [Global Payments](https://developer.realexpayments.com) and [Heartland](https://developer.heartlandpaymentsystems.com/documentation) Developer Hubs.
+You can find the latest SDK documentation along with code examples and test cards on the [Global Payments](https://developer.realexpayments.com) and [Global Payments](https://developer.heartlandpaymentsystems.com/documentation) Developer Hubs.
 
 In addition you can find working examples in the our example code repository.
 
