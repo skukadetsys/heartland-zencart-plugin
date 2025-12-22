@@ -1,13 +1,13 @@
 {
   "name": "globalpayments/php-sdk",
-  "description": "PHP SDK for processing payments with Global Payments, including Global Payments Systems and Realex Payments",
+  "description": "PHP SDK for processing payments with Global Payments, including Global Payments and Realex Payments",
   "keywords": [
   ],
   "homepage": "https://developer.heartlandpaymentsystems.com/documentation",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "Global Payments Systems"
+      "name": "Global Payments"
     }
   ],
   "require": {

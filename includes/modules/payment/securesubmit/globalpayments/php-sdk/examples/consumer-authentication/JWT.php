@@ -7,7 +7,7 @@
  *
  * @category Authentication
  * @package  HPS
- * @author   Global Payments Systems <entapp_devportal@e-hps.com>
+ * @author   Global Payments <entapp_devportal@e-hps.com>
  * @license  Custom https://github.com/hps/heartland-php/blob/master/LICENSE.txt
  * @link     https://developer.heartlandpaymentsystems.com
  */

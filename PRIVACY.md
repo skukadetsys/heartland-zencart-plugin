@@ -2,7 +2,7 @@ Online Privacy & Cookie Policy Statement ("Privacy Policy")
 
 Last modified on June 21, 2012
 
-Global Payments Systems, Inc. (�Global Payments,� �we,� �us,� �our�) recognizes the importance of maintaining effective privacy practices.  This Privacy & Cookie Policy explains the online data collection and use policies that apply to the websites, mobile applications and online services (collectively �Services�) that are owned or controlled by Global Payments and are linked to this Policy page.
+Global Payments, Inc. (�Global Payments,� �we,� �us,� �our�) recognizes the importance of maintaining effective privacy practices.  This Privacy & Cookie Policy explains the online data collection and use policies that apply to the websites, mobile applications and online services (collectively �Services�) that are owned or controlled by Global Payments and are linked to this Policy page.
 Click below to jump to a particular topic:
 
 1.       Information Collection and Use
