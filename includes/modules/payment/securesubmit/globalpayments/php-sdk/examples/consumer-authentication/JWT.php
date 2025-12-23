@@ -6,8 +6,8 @@
  * PHP Version 5.2+
  *
  * @category Authentication
- * @package  HPS
- * @author   Global Payments <entapp_devportal@e-hps.com>
+ * @package  GP
+ * @author   Global Payments <developersupport@globalpay.com>
  * @license  Custom https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
  * @link     https://developer.globalpayments.com
  */
