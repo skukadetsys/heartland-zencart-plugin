@@ -51,7 +51,7 @@ try {
     // i'm running windows, so i had to update this:
     //ini_set("SMTP", "my-mail-server");
 
-    sendEmail($_GET['EMAIL'], 'donotreply@e-hps.com', 'Successful Charge!', $body, true);
+    sendEmail($_GET['EMAIL'], 'donotreply@globalpay.com', 'Successful Charge!', $body, true);
 } catch (Exception $e) {
     echo 'Failure: ' . $e->getMessage();
     exit;
